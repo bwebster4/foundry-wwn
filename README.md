@@ -1,2 +1,4 @@
 # foundry-wwn
-A Foundry Module that adds Worlds Without Number functionality to the existing SWN system
+A Foundry Module that adds Worlds Without Number functionality to the Stars Without Number: Revised system: https://github.com/Spice-King/foundry-swnr
+
+
