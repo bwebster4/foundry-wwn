@@ -1,0 +1,27 @@
+{
+    "name": "wwn",
+    "title": "Worlds Without Number Character Sheet and Compendium",
+    "description": "A module to be used with the Stars Without Number system, to convert the sheet to be usable with the Worlds Without Number RPG by Kevin Crawford.",
+    "author": "BWebster",
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.7.4",
+    "dependencies": [
+        {
+          "name": "swnr",
+          "type": "system"
+        }
+    ],
+    "esmodules": [
+      "modules/wwn.js",
+      "modules/character-sheet.js"
+    ],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ],
+    "system":"swnr",
+    "url":"https://github.com/bwebster4/foundry-wwn"
+}
