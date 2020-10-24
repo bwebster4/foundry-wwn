@@ -2,6 +2,27 @@
     "wwn": {
        "title": "Worlds Without Number",
        "CharacterActorSheet": "Basic Sheet",
+       "armor": {
+         "type": {
+            "light": "Light",
+            "label": "Type",
+            "medium": "Medium",
+            "heavy": "Heavy",
+            "shield": "Shield"
+         }
+       },
+       "ammo": {
+         "reloadType": "Reload Type",
+         "types": {
+            "arrow": "Arrows",
+            "hurlant": "Hurlant bolts"
+         },
+         "reloadTypes": {
+            "slow": "Slow Reload",
+            "reload": "Reload",
+            "single": "Single Shot"
+         }
+       },
        "skills": {
           "wwn": {
              "administer": {

@@ -11,7 +11,7 @@ export class WwnCharacterActorSheet extends CharacterActorSheet {
                     rank: -1,
                     pool: 'ask',
                     description: game.i18n.localize(skillRoot + 'text'),
-                    source: 'Revised',
+                    source: 'Worlds Without Number',
                     dice: "2d6"
                 }
             };
